@@ -7,4 +7,4 @@ maybe pull in images from instagram of the venue?
 
 rank possibly by trending or rating.
 
-Somehow source a menu of the venue.
+Somehow sauce a menu of the venue.
